@@ -1,0 +1,69 @@
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 2.202 after 101 iterations. Population:50Chrom:4
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 0.959 after 101 iterations. Population:50Chrom:4
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 0.935 after 101 iterations. Population:50Chrom:4
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 2.478 after 101 iterations. Population:50Chrom:4
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 1.366 after 101 iterations. Population:50 Chrom:4
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 1.659 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 1.169 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 1.396 after 101 iterations. Population:50 Chrom:4
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 1.465 after 101 iterations. Population:50 Chrom:4
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 1.701 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 1.617 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 1.707 after 101 iterations. Population:50 Chrom:4
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 1.574 after 101 iterations. Population:50 Chrom:4
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 2.518 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 2.116 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 0.875 after 101 iterations. Population:50 Chrom:4
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 1.435 after 101 iterations. Population:50 Chrom:4
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 0.992 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 1.549 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 1.157 after 101 iterations. Population:50 Chrom:4
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 2.653 after 101 iterations. Population:50 Chrom:4
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 1.159 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 1.506 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 1.032 after 101 iterations. Population:50 Chrom:4
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 1.078 after 101 iterations. Population:50 Chrom:4
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 0.537 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 0.898 after 101 iterations. Population:50 Chrom:4
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 2.084 after 101 iterations. Population:50 Chrom:4
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 13.298 after 101 iterations. Population:50 Chrom:20
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 10.372 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 12.807 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 12.183 after 101 iterations. Population:50 Chrom:20
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 8.502 after 101 iterations. Population:50 Chrom:20
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 9.587 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 10.287 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 11.547 after 101 iterations. Population:50 Chrom:20
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 10.829 after 101 iterations. Population:50 Chrom:20
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 12.122 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 11.105 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 12.667 after 101 iterations. Population:50 Chrom:20
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 10.295 after 101 iterations. Population:50 Chrom:20
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 12.259 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 11.325 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 13.357 after 101 iterations. Population:50 Chrom:20
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 10.681 after 101 iterations. Population:50 Chrom:20
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 11.496 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 13.435 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 13.255 after 101 iterations. Population:50 Chrom:20
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 12.428 after 101 iterations. Population:50 Chrom:20
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 13.371 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 14.191 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 12.334 after 101 iterations. Population:50 Chrom:20
+
+Using pick 10 Tournament selection and using Single point crossover. The best final fitness value was: 10.502 after 101 iterations. Population:50 Chrom:20
+Using pick 10 Tournament selection and using Double point crossover. The best final fitness value was: 13.054 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Single point crossover. The best final fitness value was: 12.115 after 101 iterations. Population:50 Chrom:20
+Using pick N Tournament selection and using Double point crossover. The best final fitness value was: 11.762 after 101 iterations. Population:50 Chrom:20
